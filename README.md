@@ -16,4 +16,4 @@ Formação [Outsystems Fundamentals](https://web.dio.me/track/formacao-outsystem
 Site Oficial da [OutSystems](https://www.outsystems.com/pt-br/)
 Comunidade da [OutSystems](https://www.outsystems.com/community/)
 Desafio de Projeto [Criando um Sistema para Hotel e Hospedagem com OutSystems](https://web.dio.me/project/novas-funcionalidades-diohotel/learning/bbe114df-b54c-4ba3-967f-d4fa9112b991)
-Link da aplicação [DioHotel](https://personal-rails3rw.outsystemscloud.com/DioHotel_User/Home?_ts=638563775011921159)
+Link da aplicação [DioHotel](https://personal-rails3rw.outsystemscloud.com/PreviewInDevices/?IsMobilePreview=True&DeviceName=Smartphone&URL=/DioHotelApp_User/Home?_ts=638568077201375712)
